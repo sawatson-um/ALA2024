@@ -1,1 +1,1 @@
-This repo contains Jupyter Notebooks to accompany the poster "What are the Faculty Up to? Leveraging Vendor APIs for Bibliographics and Bibliometrics," which was presented at the 2024 American Library Association Annual Conference.
+This repo contains Jupyter Notebooks to accompany the poster "What are the Faculty Up to? Leveraging Vendor APIs for Bibliographics and Bibliometrics," which was presented at the 2024 American Library Association Annual Conference. Shelby Watson is the corresponding author. Brian Young is the co-author.
